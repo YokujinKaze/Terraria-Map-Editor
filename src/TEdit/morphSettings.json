@@ -414,16 +414,65 @@ tileToDo
 		  "rockLevelTargetId": 400
 		},
 	#	{
-	#	  "name": "caveDeco",
+	#	"name": "caveDecoSpikes",
 	#	  "sourceIds": [ 165 ],
 	#	  "skyLevelTargetId": 165,
 	#	  "dirtLevelTargetId": 165,
 	#	  "rockLevelTargetId": 165,
 	#	  "spriteOffsets": [
 	#		{
-	#		  "minU": 
-	#		  "maxU": 
-	#		  "offsetU": 
+	#		  "name": "Ice"
+	#		  "minU": 0,
+	#		  "maxU": 2,
+	#		  "offsetU": 30
+	#		},
+	#		{
+	#		  "name": "Stone"
+	#		  "minU": 3,
+	#		  "maxU": 5,
+	#		  "offsetU": 9
+	#		},
+	#		{
+	#		  "name": "StoneHallow"
+	#		  "minU": 9,
+	#		  "maxU": 11,
+	#		  "offsetU": 3
+	#		},
+	#		{
+	#		  "name": "StoneCorruption"
+	#		  "minU": 12,
+	#		  "maxU": 14,
+	#		  "offsetU": 0
+	#		},
+	#		{
+	#		  "name": "StoneCrimson"
+	#		  "minU": 15,
+	#		  "maxU": 17,
+	#		  "offsetU": -3
+	#		},
+	#		{
+	#		  "name": "StoneDesert"
+	#		  "minU": 18,
+	#		  "maxU": 20,
+	#		  "offsetU": -6
+	#		},
+	#		{
+	#		  "name": "IceHallow"
+	#		  "minU": 27,
+	#		  "maxU": 29,
+	#		  "offsetU": 3
+	#		},
+	#		{
+	#		  "name": "IceCorruption"
+	#		  "minU": 30,
+	#		  "maxU": 32,
+	#		  "offsetU": 0
+	#		},
+	#		{
+	#		  "name": "IceCrimson"
+	#		  "minU": 33,
+	#		  "maxU": 35,
+	#		  "offsetU": -3
 	#		}
 	#	  ]
 	#	},
@@ -640,16 +689,65 @@ tileToDo
 		  "rockLevelTargetId": 401
 		},
 	#	{
-	#	  "name": "caveDeco",
+	#	"name": "caveDecoSpikes",
 	#	  "sourceIds": [ 165 ],
 	#	  "skyLevelTargetId": 165,
 	#	  "dirtLevelTargetId": 165,
 	#	  "rockLevelTargetId": 165,
 	#	  "spriteOffsets": [
 	#		{
-	#		  "minU": 
-	#		  "maxU": 
-	#		  "offsetU": 
+	#		  "name": "Ice"
+	#		  "minU": 0,
+	#		  "maxU": 2,
+	#		  "offsetU": 33
+	#		},
+	#		{
+	#		  "name": "Stone"
+	#		  "minU": 3,
+	#		  "maxU": 5,
+	#		  "offsetU": 12
+	#		},
+	#		{
+	#		  "name": "StoneHallow"
+	#		  "minU": 9,
+	#		  "maxU": 11,
+	#		  "offsetU": 6
+	#		},
+	#		{
+	#		  "name": "StoneCorruption"
+	#		  "minU": 12,
+	#		  "maxU": 14,
+	#		  "offsetU": 3
+	#		},
+	#		{
+	#		  "name": "StoneCrimson"
+	#		  "minU": 15,
+	#		  "maxU": 17,
+	#		  "offsetU": 0
+	#		},
+	#		{
+	#		  "name": "StoneDesert"
+	#		  "minU": 18,
+	#		  "maxU": 20,
+	#		  "offsetU": -3
+	#		},
+	#		{
+	#		  "name": "IceHallow"
+	#		  "minU": 27,
+	#		  "maxU": 29,
+	#		  "offsetU": 6
+	#		},
+	#		{
+	#		  "name": "IceCorruption"
+	#		  "minU": 30,
+	#		  "maxU": 32,
+	#		  "offsetU": 3
+	#		},
+	#		{
+	#		  "name": "IceCrimson"
+	#		  "minU": 33,
+	#		  "maxU": 35,
+	#		  "offsetU": 0
 	#		}
 	#	  ]
 	#	},
@@ -859,16 +957,65 @@ tileToDo
 		  "rockLevelTargetId": 403
 		},
 	#	{
-	#	  "name": "caveDeco",
+	#	"name": "caveDecoSpikes",
 	#	  "sourceIds": [ 165 ],
 	#	  "skyLevelTargetId": 165,
 	#	  "dirtLevelTargetId": 165,
 	#	  "rockLevelTargetId": 165,
 	#	  "spriteOffsets": [
 	#		{
-	#		  "minU": 
-	#		  "maxU": 
-	#		  "offsetU": 
+	#		  "name": "Ice"
+	#		  "minU": 0,
+	#		  "maxU": 2,
+	#		  "offsetU": 27
+	#		},
+	#		{
+	#		  "name": "Stone"
+	#		  "minU": 3,
+	#		  "maxU": 5,
+	#		  "offsetU": 6
+	#		},
+	#		{
+	#		  "name": "StoneHallow"
+	#		  "minU": 9,
+	#		  "maxU": 11,
+	#		  "offsetU": 0
+	#		},
+	#		{
+	#		  "name": "StoneCorruption"
+	#		  "minU": 12,
+	#		  "maxU": 14,
+	#		  "offsetU": -3
+	#		},
+	#		{
+	#		  "name": "StoneCrimson"
+	#		  "minU": 15,
+	#		  "maxU": 17,
+	#		  "offsetU": -6
+	#		},
+	#		{
+	#		  "name": "StoneDesert"
+	#		  "minU": 18,
+	#		  "maxU": 20,
+	#		  "offsetU": -9
+	#		},
+	#		{
+	#		  "name": "IceHallow"
+	#		  "minU": 27,
+	#		  "maxU": 29,
+	#		  "offsetU": 0
+	#		},
+	#		{
+	#		  "name": "IceCorruption"
+	#		  "minU": 30,
+	#		  "maxU": 32,
+	#		  "offsetU": -3
+	#		},
+	#		{
+	#		  "name": "IceCrimson"
+	#		  "minU": 33,
+	#		  "maxU": 35,
+	#		  "offsetU": -6
 	#		}
 	#	  ]
 	#	},
